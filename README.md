@@ -10,4 +10,6 @@ Alem disso com outros game objects, pegamos formas e tranformamos em inimigos "d
 São progamados para se mexerem sozinho, porem são facilmente derrotados ao serem jogados para baixo do cenario
 <h1>Sobre oque é esssa cena?</h1>
 Essa cena  é bem simples, voce controlara um personagen fofo rosa que deve seguir as setas ate o final nas nuvens com uma recompensa, 2 baus do tesouro<br>
-
+<h1>Comandos Ultilizados</h1>
+<h2>Movimento do personagem</h2>
+Ele utiliza um componente Rigidbody2D para controlar a física do movimento. A velocidade do objeto é definida pela variável "speed". No método Start, o script obtém uma referência ao componente Rigidbody2D do objeto. No método Update, o código obtém a entrada do jogador nos eixos horizontal e vertical. Esses valores são usados para criar um vetor de movimento, que é multiplicado pela velocidade e atribuído à propriedade "velocity" do Rigidbody2D. Isso faz com que o objeto se mova na direção e velocidade especificadas.
