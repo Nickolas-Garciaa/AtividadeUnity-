@@ -1,7 +1,6 @@
 # AtividadeUnity-
 <h1>Link do trabalho no drive</h1> 
-https://drive.google.com/file/d/1WyY1zSzmRE7AYAJfloUjNEscwalEQkW3/view?usp=sharing
-Atividade do unity que a a nossa professora aline pediu <br>
+https://drive.google.com/file/d/1WyY1zSzmRE7AYAJfloUjNEscwalEQkW3/view?usp=sharing<br>
 <H1>Como fizemos esse trabalho?</H1>
 Com o programa unity, o 2D.  Pegamos na asset store algo que combinaria com a nossa ideia.<br>
 Apos isso, fizemos com paletts o cenario e com as coisas que vinham juntos com o asset o fundo e ambientação do cenario<br>
