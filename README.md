@@ -46,15 +46,10 @@ Pegamos um asset na store que combinava, um chamado Bayat Games.
 
 <h1>Tilemaps</h1>
 No Unity, importe o arquivo de mapa para o projeto.<br>
-
 Crie um objeto vazio no Unity para representar o mapa e adicione um componente "Tilemap" a ele.<br>
-
 Carregue o arquivo de mapa no componente Tilemap.<br>
-
 Ajuste a posição, escala e outras propriedades do objeto Tilemap conforme necessário.<br>
-
 Opcionalmente, adicione colisões aos objetos no mapa criando objetos vazios e adicionando um componente "Tilemap Collider 2D".<br>
-
 Personalize e estilize seu mapa no Unity, adicionando elementos gráficos, efeitos visuais ou scripts.<br>
 
 ![Tilemap_PickerTool](https://github.com/Nickolas-Garciaa/AtividadeUnity-/assets/128262640/eb6a6835-5445-4443-b8fc-5f28dbcb67d3)
