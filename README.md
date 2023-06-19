@@ -30,17 +30,12 @@ Ele utiliza um componente Rigidbody2D para controlar a física do movimento. A f
 
 <h1>Cinemachine</h1>
 Ultilizamos esse Gameobjects que instalamos para fazer a camera seguir o personagem, assim nao precisando usar codigos e de um jeito mais simples e funcional.<br>
-A cinemachine funciona basicamnete Crie uma nova câmera Cinemachine no Unity. Selecione GameObject -> Cinemachine -> Cinemachine Virtual Camera. Isso criará um objeto de câmera virtual.
-
-Ajuste as configurações da câmera virtual Cinemachine conforme necessário. Você pode definir a prioridade, a posição, a orientação, os limites e outras propriedades da câmera virtual.
-
-Configure os alvos da câmera. A Cinemachine permite que você defina alvos de câmera, como objetos no jogo ou pontos de interesse. Você pode definir alvos individuais ou usar grupos de alvos.
-
-Adicione os componentes Cinemachine necessários aos objetos do jogo. Por exemplo, você pode adicionar um componente CinemachineCollider para evitar que a câmera atravesse objetos sólidos ou um componente CinemachineTransposer para aplicar deslocamento e seguimento suave.
-
-Ajuste as configurações de blending (mistura) se você estiver usando várias câmeras. A Cinemachine permite que você crie transições suaves entre diferentes câmeras virtuais.
-
-Controle a câmera virtual usando scripts. Por exemplo, você pode usar um script para mover a câmera em resposta a eventos do jogo ou para seguir um personagem em movimento.
+A cinemachine funciona basicamnete Crie uma nova câmera Cinemachine no Unity. Selecione GameObject -> Cinemachine -> Cinemachine Virtual Camera. Isso criará um objeto de câmera virtual.<br>
+Ajuste as configurações da câmera virtual Cinemachine conforme necessário. Você pode definir a prioridade, a posição, a orientação, os limites e outras propriedades da câmera virtual.<br>
+Configure os alvos da câmera. A Cinemachine permite que você defina alvos de câmera, como objetos no jogo ou pontos de interesse. Você pode definir alvos individuais ou usar grupos de alvos.<br>
+Adicione os componentes Cinemachine necessários aos objetos do jogo. Por exemplo, você pode adicionar um componente CinemachineCollider para evitar que a câmera atravesse objetos sólidos ou um componente CinemachineTransposer para aplicar deslocamento e seguimento suave.<br>
+Ajuste as configurações de blending (mistura) se você estiver usando várias câmeras. A Cinemachine permite que você crie transições suaves entre diferentes câmeras virtuais.<br>
+Controle a câmera virtual usando scripts. Por exemplo, você pode usar um script para mover a câmera em resposta a eventos do jogo ou para seguir um personagem em movimento.<br>
 
 ![Cinemachine](https://github.com/Nickolas-Garciaa/AtividadeUnity-/assets/128262640/de029af0-a567-41be-8f49-17680972b38b)
 
@@ -48,3 +43,18 @@ Controle a câmera virtual usando scripts. Por exemplo, você pode usar um scrip
 Pegamos um asset na store que combinava, um chamado Bayat Games.
 
 ![Bayatgames](https://github.com/Nickolas-Garciaa/AtividadeUnity-/assets/128262640/a3d25ca1-bb66-48c5-abd8-57396b3a083e)
+
+<h1>Tilemaps</h1>
+No Unity, importe o arquivo de mapa para o projeto.<br>
+
+Crie um objeto vazio no Unity para representar o mapa e adicione um componente "Tilemap" a ele.<br>
+
+Carregue o arquivo de mapa no componente Tilemap.<br>
+
+Ajuste a posição, escala e outras propriedades do objeto Tilemap conforme necessário.<br>
+
+Opcionalmente, adicione colisões aos objetos no mapa criando objetos vazios e adicionando um componente "Tilemap Collider 2D".<br>
+
+Personalize e estilize seu mapa no Unity, adicionando elementos gráficos, efeitos visuais ou scripts.<br>
+
+![Tilemap_PickerTool](https://github.com/Nickolas-Garciaa/AtividadeUnity-/assets/128262640/eb6a6835-5445-4443-b8fc-5f28dbcb67d3)
